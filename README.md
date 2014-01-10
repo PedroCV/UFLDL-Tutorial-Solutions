@@ -19,7 +19,8 @@ cost and gradient of the same problem stated as a RICA (Reconstruction ICA) if y
 
 Notes:
 
--The solution of the exercise "Sparse coding" gets to learn the features, but in a longer number of iterations. Furthermore, I changed the "alpha" parameter, for it to converge faster. There seems to be a bug in the exercise setting, because solutions tend to be not very sparse, so please, feel free to discuss or contact me if you have a better working
-solution.
+-The solution of the exercise "Sparse coding" gets to learn the features, but in a longer number of iterations. Furthermore, I changed the "alpha" parameter, so it to converges faster. There seems to be a bug in the exercise setting, because solutions tend to be not very sparse (and objective funtion increases), so please, feel free to discuss or contact me if you have a better working solution.
+-In the exercise about "Convolutional Neural Networks", I just renamed the function files about convolution and pooling so they aren't confused with the ones in the exercise "Convolution and Pooling". The file "cnnExercise" was changed to deal with this.
+-The file "sampleIMAGES"in the exercise "Sparse Coding" was renamed to "sampleIMAGES_sp" and changed, so it doesn't get confused with the one of the exercise "Sparse Autoencoder". The file "sparseCodingExercise" was changed to deal with this.
 -In much of the solutions, specially when computing gradients, you will find some commented lines: those are wrongly
 derived solutions that I just commented so you can see that if you got that answer, it's wrong.
