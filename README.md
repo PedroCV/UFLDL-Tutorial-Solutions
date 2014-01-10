@@ -7,7 +7,7 @@ My Matlab code solutions to the famous UFLDL Tutorial. It includes all the propo
 
 -http://ufldl.stanford.edu/tutorial/index.php/UFLDL_Tutorial
 
-Any comment, suggestion, please contact me at paworkprog@gmail.com
+As far as I have tested my solutions, it worked as expected in the exercises (see Notes for some clarifications). If you find any bug or have a better solutions in terms of accuracy/efficiency, you are welcome to contact me and give you credit for the changes: paworkprog@gmail.com
 
 
 Additional remarks:
